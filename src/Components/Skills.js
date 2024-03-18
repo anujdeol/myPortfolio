@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaGitAlt, FaReact, FaAws, FaGithub, FaNpm, FaFigma, FaBootstrap, FaJava } from "react-icons/fa";
 import { DiNodejs, DiJavascript1 } from "react-icons/di";
-import { SiExpress, SiMongodb, SiPostman, SiSpring, SiSpringBoot } from "react-icons/si";
+import { SiExpress, SiMongodb, SiPostman, SiSpring, SiSpringoot } from "react-icons/si";
 
 const Skills = ({ skill }) => {
   const icon = {
@@ -18,7 +18,7 @@ const Skills = ({ skill }) => {
     SpringBoot: <SiSpring />,
     AWS: <FaAws/>,
     React: <FaReact/>,
-
+    SpringBoot: <SiSpringboot/>
   };
 
   return (

@@ -24,7 +24,7 @@ const About = () => {
             <b>React</b> <br />
             Database Management: <b>MongoDB</b>, <b>MySQL</b> <br />
             Backend Technologies: <b>AWS (Serverless framework, Lambda, S3 Buckets)</b>,{" "}
-            <b>JWT Authentication</b>, <b>OAuth</b>, <b>Microservices</b> <br />
+            <b>JWT Authentication</b>, <b>OAuth 2.0</b>, <b>Auth0</b>, <b>Microservices</b> <br />
             Tools: <b>JIRA</b>, <b>Postman</b>, <b>Git/GitHub</b>,{" "}
             <b>Confluence</b>, <b>Visual Studio Code</b>, <b>IntelliJ IDEA</b>,{" "}
             <b>Eclipse</b>, <b>SpringToolSuit4</b>, <b>MongoDB Compass</b>,{" "}
@@ -32,9 +32,7 @@ const About = () => {
             Others: <b>Thymeleaf</b>, <b>Spring Data JPA</b>,{" "}
             <b>Spring Security</b>, <b>Hibernate</b>, <b>Spring Validation</b>,{" "}
             <b>MVC Architecture</b> <br />
-            <br />
-            I’m excited to join a team that’s innovative and committed to
-            advancing technology. <br />
+           
           </p>{" "}
           <br></br>
           <p>
