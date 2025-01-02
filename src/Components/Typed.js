@@ -7,8 +7,9 @@ const Typed = () => {
       <Typewriter
         options={{
           strings: [
-            "a Software Developer",
-            "Splecialized in Backend Technologies",
+            "a Full Stack Software Developer",
+            "Coding Instructor",
+            "Splecialized in Backend and Cloud Technologies",
           ],
           autoStart: true,
           loop: true,

@@ -13,40 +13,50 @@ const About = () => {
             Get to <b>know</b> me!
           </h1>
           <p>
-            Hi there, my name is <b>Anuj Deol</b> and I am from Toronto, Canada.
-            I'm a<b> Backend developer</b> and a final year college student
+            Hi there, my name is <b>Anuj Deol</b> and I live in Toronto, Canada.
+            I'm a<b> Full Stack developer</b> and a final year college student
             pursuing <b>Information Technology Solutions @ Humber College</b>.{" "}
             <br />
             <br />
-            Programming Languages: <b>Java</b>, <b>JavaScript</b>, <b>SQL</b>{" "}
-            <br />
-            Frameworks: <b>Node.js</b>, <b>Spring Boot</b>, <b>Express.js</b>,{" "}
-            <b>React</b> <br />
+            Programming Languages: <b>Java</b>, <b>JavaScript</b>, <b>SQL</b>,{" "}
+            <b>Python</b> <br />
+            Frameworks: <b>Node.js</b>, <b>Spring Boot</b>, <b>Django</b>,{" "}
+            <b>React</b>, <b>Angular</b> <br />
             Database Management: <b>MongoDB</b>, <b>MySQL</b> <br />
-            Backend Technologies: <b>AWS (Serverless framework, Lambda, S3 Buckets)</b>,{" "}
-            <b>JWT Authentication</b>, <b>OAuth 2.0, Auth0</b>, <b>Microservices</b> <br />
-            Tools: <b>JIRA</b>, <b>Postman</b>, <b>Git/GitHub</b>,{" "}
-            <b>Confluence</b>, <b>Visual Studio Code</b>, <b>IntelliJ IDEA</b>,{" "}
-            <b>Eclipse</b>, <b>SpringToolSuit4</b>, <b>MongoDB Compass</b>,{" "}
-            <b>Figma</b> <br />
+            Backend Technologies:{" "}
+            <b>
+              AWS (Serverless framework, Lambda, S3 Buckets, API Gateway,
+              CloudFront)
+            </b>
+            , <b>JWT Authentication</b>, <b>OAuth 2.0, Okta Auth0</b>,{" "}
+            <b>Microservices</b> <br />
             Others: <b>Thymeleaf</b>, <b>Spring Data JPA</b>,{" "}
             <b>Spring Security</b>, <b>Hibernate</b>, <b>Spring Validation</b>,{" "}
             <b>MVC Architecture</b> <br />
-           
           </p>{" "}
           <br></br>
           <p>
             <br></br>
-            <h1><b>EXPERIENCE</b></h1> <br />
+            <h1>
+              <b>EXPERIENCE</b>
+            </h1>{" "}
+            <br />
             <b>Software Developer Intern</b> <br />
             Fable | Jan 2024 - Present | Toronto, Canada <br />
-            Technologies: Node.js, AWS (Serverless, Lambda, S3), MongoDB, Jest, Weebhook, Auth0 {" "}
-            <br />
+            Technologies: Node.js, AWS (Serverless, Lambda, S3), MongoDB, Jest,
+            Weebhook, Okta Auth0 Integration <br />
             <br />
             <b>Software Engineer</b> <br />
             Tata Consultancy Services (TCS) | Nov 2020 - July 2022 | Noida,
             India <br />
-            Technologies: Java, Spring Boot, Hibernate, JUnit, RESTful web services and APIs, Spring Security, MVC Architecture, OAuth 2.0 <br />
+            Technologies: Java, Spring Boot, Hibernate, JUnit, RESTful web
+            services and APIs, Spring Security, MVC Architecture, OAuth 2.0{" "}
+            <br />
+            <br></br>
+            <b>Coding Instructor</b> <br />
+            Code Ninjas | Sept 2024 - Present | Toronto, Canada <br />
+            Technologies: Java, JavaScript, C# Unity, OOP Programming
+            <br />
           </p>
           <br />
           <b>Additionally,</b> I have a keen interest in exploring new
@@ -57,7 +67,6 @@ const About = () => {
             world and <b>bike riding</b> to escape the infinite loops of coding!
             🌍🚴‍♂️🏍️🏔️
           </p>
-        
         </div>
 
         <div>

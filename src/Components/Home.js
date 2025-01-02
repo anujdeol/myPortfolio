@@ -25,11 +25,17 @@ const Home = () => {
           <h1 className="AboutTextHeading">
             Brief <b>introduction</b>
           </h1>
-          As a passionate <b>software developer</b>, I aim to utilize my
-          proficiency in backend technologies, along with my problem-solving
-          abilities, to contribute to the development of cutting-edge software
-          solutions. I'm excited to join a team that's innovative and committed
-          to advancing technology.<br />
+          As a dedicated <b>Full Stack Developer</b>, I aim to leverage my
+          expertise in <b>backend technologies</b> like{" "}
+          <b>Java, Spring Boot, and Node.js</b>, along with my proficiency in{" "}
+          <b>cloud-based applications</b> and <b>distributed systems</b>, to
+          drive the development of innovative and scalable software solutions.
+          I’m eager to collaborate with a dynamic team, utilizing my strong
+          problem-solving skills and hands-on experience in{" "}
+          <b>API development</b>, <b>cloud infrastructure</b>, and{" "}
+          <b>security integrations</b> to contribute to advancing cutting-edge
+          technology.
+          <br />
         </div>
 
         <Tilt>
