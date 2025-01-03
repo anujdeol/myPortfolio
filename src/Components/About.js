@@ -13,9 +13,16 @@ const About = () => {
             Get to <b>know</b> me!
           </h1>
           <p>
-            Hi there, my name is <b>Anuj Deol</b> and I live in Toronto, Canada.
-            I'm a<b> Full Stack developer</b> and a final year college student
-            pursuing <b>Information Technology Solutions @ Humber College</b>.{" "}
+            Hi there, my name is Anuj Deol, and I live in Toronto, Canada. I'm a
+            Full Stack Developer with a strong academic and professional
+            background. I hold a Bachelor's degree in Computer Science and have
+            recently completed my Post-Graduate program in Information
+            Technology Solutions at Humber College. With three years of
+            industrial experience as a Software Developer, I’ve worked on
+            designing and implementing innovative software solutions across
+            various domains. I’m passionate about building scalable, efficient,
+            and user-friendly applications while continuously learning and
+            growing in the ever-evolving tech landscape.
             <br />
             <br />
             Programming Languages: <b>Java</b>, <b>JavaScript</b>, <b>SQL</b>,{" "}
